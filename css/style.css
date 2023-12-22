@@ -6,6 +6,13 @@
     --dark: #091E3E;
 }
 
+
+.btn-close:focus {
+    outline: 0;
+    box-shadow: none;
+    opacity: 1
+}
+
 h1,
 h2,
 .font-weight-bold {
